@@ -99,7 +99,7 @@ function FinanceSection() {
           <img src={line5} className="" alt="" />
           <img src={star7} alt="" className="w-[41px] h-[41px]" />
           <img src={line6} alt="" />
-          <span className="flex justify-center flex-col items-center text-center w-[196px] h-[38px]">
+          <span className="flex justify-center flex-col items-center text-center w-[218px] h-[38px]">
             <span className="font-semibold text-[11px]">Ultra Premium</span>
             <span className="text-sm">Free Trial</span>
           </span>
