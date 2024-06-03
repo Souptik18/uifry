@@ -61,13 +61,35 @@ function FinanceSection() {
             </div>
           </div>
         </div>
-        <div className="w-[352px] h-[72px] rotate-[-20deg] rounded-tl-[28px] rounded-bl-[28px] absolute top-[62px] right-[-19px] z-5 bg-red-500 flex items-center justify-center">
-          <span className="font-semibold text-[12px]">
+        <div
+          style={{
+            width: "352px",
+            // height: "72px",
+            borderBottom: "72px solid #EF4444",
+            borderLeft: "28px solid transparent",
+            transform: "rotate(-20deg)",
+            position: "absolute",
+            top: "62px",
+            right: "-19px",
+            zIndex: 5,
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+          }}
+          className="rounded-tr-2xl"
+        >
+          <span
+            style={{
+              fontWeight: "600",
+              fontSize: "12px",
+            }}
+            className="absolute left-[50px] top-[24px] "
+          >
             Make The Best Financial Decision
           </span>
         </div>
       </div>
-      <div className="w-[256px] h-[71px] bg-red-500 flex items-center justify-center absolute top-[135px] left-[250px] rounded-tl-[28px]  rounded-bl-[28px] z-0">
+      <div className="w-[256px] h-[71px] bg-red-500 flex items-center justify-center absolute top-[135px] left-[278px] rounded-tl-[28px]  rounded-bl-[28px] z-0">
         <span className="   bg-red-500 flex items-center space-x-4 rounded-tr-lg  rounded-br-lg rounded-tl-[28px]  rounded-bl-lg">
           <img
             src={react5}
