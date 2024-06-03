@@ -8,4 +8,5 @@
 4. open the assigned web server to view the project
 
 
-<img width="815" alt="image" src="https://github.com/Souptik18/uifry/assets/62500243/7e122017-bb62-4a31-aa00-640f496c817a">
+<img width="689" alt="image" src="https://github.com/Souptik18/uifry/assets/62500243/918f34cc-ccc3-4f4e-91e4-fa5a1de753f1">
+
